@@ -1,4 +1,4 @@
-# vucu_kitle_indeksi
+# vucut_kitle_indeksi
 Vücut Kitle İndeksi Hesaplama
 
 import java.util.Scanner;
